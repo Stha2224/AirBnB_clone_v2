@@ -1,0 +1,46 @@
+Packing web_static to versions/web_static_20170314233357.tgz
+[localhost] local: tar -cvzf versions/web_static_20170314233357.tgz web_static
+web_static/
+web_static/.DS_Store
+web_static/0-index.html
+web_static/1-index.html
+web_static/100-index.html
+web_static/2-index.html
+web_static/3-index.html
+web_static/4-index.html
+web_static/5-index.html
+web_static/6-index.html
+web_static/7-index.html
+web_static/8-index.html
+web_static/images/
+web_static/images/icon.png
+web_static/images/icon_bath.png
+web_static/images/icon_bed.png
+web_static/images/icon_group.png
+web_static/images/icon_pets.png
+web_static/images/icon_tv.png
+web_static/images/icon_wifi.png
+web_static/images/logo.png
+web_static/index.html
+web_static/styles/
+web_static/styles/100-places.css
+web_static/styles/2-common.css
+web_static/styles/2-footer.css
+web_static/styles/2-header.css
+web_static/styles/3-common.css
+web_static/styles/3-footer.css
+web_static/styles/3-header.css
+web_static/styles/4-common.css
+web_static/styles/4-filters.css
+web_static/styles/5-filters.css
+web_static/styles/6-filters.css
+web_static/styles/7-places.css
+web_static/styles/8-places.css
+web_static/styles/common.css
+web_static/styles/filters.css
+web_static/styles/footer.css
+web_static/styles/header.css
+web_static/styles/places.css
+web_static packed: versions/web_static_20170314233357.tgz -> 21283Bytes
+
+Done.
